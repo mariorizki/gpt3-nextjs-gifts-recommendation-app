@@ -27,7 +27,7 @@
   padding: 20px;
 }
 .main label {
-  margin-top: 1rem;
+  margin-top: 0.5rem;
 }
 .main .icon {
   width: 34px;
@@ -50,16 +50,16 @@
 .main input[type='text'],
 .main input[type='number'],
 .main select {
-  padding: 12px;
+  padding: 0.5rem;
   border: 1px solid #10a37f;
   border-radius: 4px;
-  margin-bottom: 12px;
-  margin-top: 4px;
+  margin-bottom: 2px;
+  margin-top: 2px;
 }
 
 .main input[type='submit'] {
   padding: 0.5rem;
-  margin-top: 1rem;
+  margin-top: 0.5rem;
   background-color: #10a37f;
   outline: none;
   border: none;
